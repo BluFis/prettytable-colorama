@@ -1,5 +1,5 @@
 # 使用prettytable和colorama制作漂亮的cmd命令行界面 #
-## 一、插件的作 ##
+## 一、插件的作用 ##
 **prettytable**这个插件的作用是在cmd命令行界面输出美观的表格页面，而**colorama**的作用是设置命令行界面文字的前景色、背景色、以及样式，让你的命令行软件获得更好的视觉效果。
 ## 二、插件的安装 ##
 - **prettytable**的安装：`pip install PrettyTable`    
